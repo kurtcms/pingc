@@ -11,4 +11,4 @@ This Bash script may be executed on a terminal or by a task scheduler such as [c
 
 A detailed walk-though is available [here](https://kurtcms.org/networking-ping-output-to-comma-separated-values-csv-at-runtime/).
 
-![alt text](https://kurtcms.org/git/pingc/pingc-screenshot.png)
+<img src="https://kurtcms.org/git/pingc/pingc-screenshot.png" width="550">
