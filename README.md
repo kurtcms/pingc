@@ -47,7 +47,7 @@ $ chmod +x /app/pingc
 
 ### Run
 
-Run the script with [`Bash`](https://github.com/python/cpython)
+The script accepts and expects the same argument(s) as [ping](https://linux.die.net/man/8/ping). Run the script with [`Bash`](https://github.com/python/cpython)
 
 ```shell
 $ /app/pingc -c5 1.1.1.1
