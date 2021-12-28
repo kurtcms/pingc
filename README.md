@@ -1,5 +1,4 @@
-
-# Networking: Ping Output to Comma Separated Values (CSV) at Runtime
+# IP Networking: Ping Output to Comma Separated Values (CSV) at Runtime
 
 This Bash script may be executed on a terminal or by a task scheduler such as [cron](https://crontab.guru/) and it does the following:
 
