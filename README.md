@@ -44,7 +44,7 @@ $ chmod +x /app/pingc/pingc.sh
 
 ### Run
 
-The script accepts and expects the same argument(s) as [ping](https://linux.die.net/man/8/ping). Run the script with [`Bash`](https://github.com/gitGNU/gnu_bash)
+The script accepts and expects the same argument(s) as [ping](https://linux.die.net/man/8/ping). Run the script with [Bash](https://github.com/gitGNU/gnu_bash)
 
 ```shell
 $ /app/pingc/pingc.sh -c5 1.1.1.1
