@@ -23,7 +23,7 @@ A detailed walk-through is available [here](https://kurtcms.org/networking-ping-
 Get started in three simple steps:
 
 1. [Download](#git-clone) a copy of the script;
-2. Provide the script with execute [permission](#permission);
+2. Provide the script with execute [permission](#permission); and
 3. [Run](#run) the script manually.
 
 ### Git Clone
@@ -31,7 +31,7 @@ Get started in three simple steps:
 Download a copy of the script with `git clone`
 
 ```shell
-$ git clone https://github.com/kurtcms/pingc /app/
+$ git clone https://github.com/kurtcms/pingc /app/pingc/
 ```
 
 ### Permission
@@ -39,7 +39,7 @@ $ git clone https://github.com/kurtcms/pingc /app/
 Provide the script with execute permission
 
 ```shell
-$ chmod +x /app/pingc
+$ chmod +x /app/pingc/pingc.sh
 ```
 
 ### Run
@@ -47,10 +47,10 @@ $ chmod +x /app/pingc
 The script accepts and expects the same argument(s) as [ping](https://linux.die.net/man/8/ping). Run the script with [`Bash`](https://github.com/python/cpython)
 
 ```shell
-$ /app/pingc -c5 1.1.1.1
+$ /app/pingc/pingc.sh -c5 1.1.1.1
 ```
 
-And have the ping output returned in a CSV format.
+And have the ping output returned in a CSV format
 
 ```
 20210419024510,1618800310,1.1.1.1,3.62
