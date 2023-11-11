@@ -9,7 +9,7 @@ This Bash script may be executed on a terminal or by a task scheduler such as [c
    3. The destination IP address, and
    4. The corresponding Round Trip Time (RTT).
 
-A detailed walk-through is available [here](https://kurtcms.org/networking-ping-output-to-comma-separated-values-csv-at-runtime/).
+A detailed walk-through is available [here](https://kurtcms.org/ip-networking-ping-output-to-comma-separated-values-csv-at-runtime/).
 
 ## Table of Content
 
